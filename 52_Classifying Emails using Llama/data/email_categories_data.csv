@@ -1,1 +1,9 @@
-
+email_id,email_content,expected_category
+1,Urgent: Server Maintenance Required\nOur main server needs immediate maintenance due to critical errors. Please address ASAP.,Priority
+2,50% Off Spring Collection!\nDon't miss our biggest sale of the season! All spring items half off. Limited time offer.,Promotions
+3,Weekly Newsletter Update\nHere's your weekly roundup of company news and updates. Check out our latest achievements!,Updates
+4,Team Meeting - Q2 Planning\nPlease join us tomorrow at 10 AM for Q2 strategy planning. Attendance is mandatory.,Priority
+6,Monthly Department Updates\nReview this month's KPIs and upcoming projects. New policies attached for review.,Updates
+8,New Product Launch Invitation\nJoin us for the exclusive preview of our latest product line. RSVP required.,Updates
+9,Flash Sale - 24 Hours Only!\nEverything must go! Massive discounts on all items. Shop now before it's too late!,Promotions
+10,Critical: Client Presentation Due\nThe client presentation for Project X is due in 2 hours. Requires immediate review.,Priority
